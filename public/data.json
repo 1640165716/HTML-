@@ -1,0 +1,84 @@
+{
+    "arr": [
+        {
+            "name": "一往情深",
+            "url": "https://img01.hua.com/uploadpic/newpic/9010966.jpg_220x240.jpg",
+            "title": "精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
+            "tag": "",
+            "infor": "经典爆款，年销售冠军！",
+            "prise": "¥239",
+            "oldprise": "¥315",
+            "sales": "已销售7.4万件"
+        },
+        {
+            "name": "不变的承诺",
+            "url": "https://img01.hua.com/uploadpic/newpic/9012177.jpg_220x240.jpg",
+            "title": "99枝红玫瑰",
+            "tag": "",
+            "infor": "经典99枝，鼎力推荐！",
+            "prise": "¥539",
+            "oldprise": "¥739",
+            "sales": "已销售6.1万件"
+        },
+        {
+            "name": "一心一意",
+            "url": "https://img01.hua.com/uploadpic/newpic/9010011.jpg_220x240.jpg",
+            "title": "玫瑰11枝，粉色勿忘我0.3扎",
+            "tag": "畅销爆款",
+            "infor": "经典款式 精选爆款",
+            "prise": "¥139",
+            "oldprise": "¥189",
+            "sales": "已销售10.9万件"
+        },
+        {
+            "name": "粉雪佳人",
+            "url": "https://img01.hua.com/uploadpic/newpic/9012437.jpg_220x240.jpg",
+            "title": "戴安娜粉玫瑰11枝、白色香水百合2枝、白色洋桔梗5枝",
+            "tag": "",
+            "infor": "清新典雅，至臻设计",
+            "prise": "¥219",
+            "oldprise": "¥282",
+            "sales": "已销售1263件"
+        },
+        {
+            "name": "甜美公主",
+            "url": "https://img01.hua.com/uploadpic/newpic/9012154.jpg_220x240.jpg",
+            "title": "白玫瑰22枝，粉佳人粉玫瑰14枝，粉色桔梗5枝",
+            "tag": "",
+            "infor": "甜美设计 清新典雅",
+            "prise": "¥368",
+            "oldprise": "¥485",
+            "sales": "已销售2.2万件"
+        },
+        {
+            "name": "忘情巴黎",
+            "url": "https://img01.hua.com/uploadpic/newpic/9012009.jpg_220x240.jpg",
+            "title": "33枝红玫瑰",
+            "tag": "畅销爆款",
+            "infor": "浪漫唯美 女神挚爱",
+            "prise": "¥298",
+            "oldprise": "¥382",
+            "sales": "已销售6.4万件"
+        },
+        {
+            "name": "用心爱你",
+            "url": "https://img01.hua.com/uploadpic/newpic/9010855.jpg_220x240.jpg",
+            "title": "99枝：33枝戴安娜＋66枝红玫瑰",
+            "tag": "",
+            "infor": "与你相守，直到天荒地老",
+            "prise": "¥520",
+            "oldprise": "¥869",
+            "sales": "已销售3.3万件"
+        },
+        {
+            "name": "爱在心头",
+            "url": "https://img01.hua.com/uploadpic/newpic/9012089.jpg_220x240.jpg",
+            "title": "玫瑰50枝：戴安娜粉玫瑰19枝，红玫瑰31枝",
+            "tag": "",
+            "infor": "双色搭配 赏心悦目",
+            "prise": "¥311",
+            "oldprise": "¥479",
+            "sales": "已销售1.9万件"
+        }
+    ]
+}
